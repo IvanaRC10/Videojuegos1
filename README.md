@@ -7,4 +7,8 @@ Desde los primeros conceptos de diseño de juegos hasta la programación, pasand
 
 # Actividades 🎮 
 
+Actividad 1 Juego en 2D:
+Actividad 2 Movimiento:
+Actividad 3 Plataforms 2D: 
+Actividad 4 Menu: 
 
