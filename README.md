@@ -33,25 +33,11 @@ Aquí encontrarás todas mis **actividades, ejercicios y proyectos**, desde los 
 
 ---
 
-## 🧠 Tecnologías y Herramientas
 
-| 💻 Lenguajes | 🎨 Diseño | ⚙️ Herramientas |
-|:-------------|:-------------|:-------------|
-| C# / Unity | Pixel Art / UI | Unity Hub |
-| Kotlin / Compose | Blender / Photoshop | GitHub / Visual Studio Code |
-
----
-
-## ✨ Próximamente…
-
-🚧 **Nuevos niveles, personajes y mecánicas en desarrollo...**  
-💬 *Sigue el proyecto para ver mis próximos avances en el taller.*  
-
----
 
 <div align="center">
 
-🎮 *Creado con pasión por* **Ivana Rocha Campos** 💖  
+🎮 *Creado por* **Ivana Rocha Campos** 💖  
 🕹️ *Materia: Creación de Videojuegos*  
 📅 *2025*
 
