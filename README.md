@@ -3,9 +3,9 @@
 # 🎮 Taller de **Creación de Videojuegos**
 
 🚀 **¡Bienvenido a mi Taller de Videojuegos!** 🕹️  
-✨ *Un espacio donde las ideas cobran vida en mundos virtuales.*
 
----
+
+
 
 </div>
 
@@ -19,7 +19,7 @@ Aquí encontrarás todas mis **actividades, ejercicios y proyectos**, desde los 
 
 💻 Cada entrega representa un nuevo aprendizaje… ¡y un paso más hacia construir mis propios universos interactivos! 🌌  
 
----
+
 
 ## 🧩 Actividades
 
