@@ -10,4 +10,9 @@ Desde los primeros conceptos de diseño de juegos hasta la programación, pasand
 ✨ Actividad 1 Juego en 2D: https://docs.google.com/document/d/10lCElqMYbpI6cqkVPVX4PG0GBI1ihIap/edit
 ✨ Actividad 2 Plataformas 2D: https://docs.google.com/document/d/122SQutGkBmcYqPtB8aYSPBNrPFNCebkP/edit
 ✨ Actividad 3 Menú:https://docs.google.com/document/d/1OzeXz8rktb8rE44-TV8EuLRVPoPFfXhdPKuB0M7nerw/edit?tab=t.0
+✨ Actividad 4 Tuto2:https://docs.google.com/document/d/1jYPXyDOZb_KvDEAhifu2LZjlKIvoexaK/edit
+ Tuto3:https://docs.google.com/document/d/1qoDm3t7Wav0GkJYM9NbpdG8Y1AkYl7C5/edit
+ 
+
+
 
