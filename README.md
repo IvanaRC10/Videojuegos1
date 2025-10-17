@@ -2,7 +2,7 @@
 
 # 🎮 **Creación de Videojuegos**
 
-🚀 **¡Bienvenido a mi Taller de Videojuegos!** 🕹️  
+🚀 **¡Bienvenido!** 🕹️  
 
 
 
