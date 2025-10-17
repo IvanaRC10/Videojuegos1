@@ -6,7 +6,7 @@
 Desde los primeros conceptos de diseño de juegos hasta la programación, pasando por la creación de assets y la implementación de mecánicas divertidas, aquí iré subiendo cada uno de mis avances. ¡Es un diario de progreso donde la meta es dominar el arte de hacer juegos! 💻✨
 
 # Actividades 🎮 
-| ✨ Actividad | Descripción / Nombre | Enlace |
+| ✨ Actividad | Nombre | Enlace |
 |---------------|----------------------|---------|
 | 1 | Juego en 2D | [Abrir documento](https://docs.google.com/document/d/10lCElqMYbpI6cqkVPVX4PG0GBI1ihIap/edit) |
 | 2 | Plataformas 2D | [Abrir documento](https://docs.google.com/document/d/122SQutGkBmcYqPtB8aYSPBNrPFNCebkP/edit) |
