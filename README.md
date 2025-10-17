@@ -12,7 +12,11 @@ Desde los primeros conceptos de diseño de juegos hasta la programación, pasand
 ✨ Actividad 3 Menú:https://docs.google.com/document/d/1OzeXz8rktb8rE44-TV8EuLRVPoPFfXhdPKuB0M7nerw/edit?tab=t.0
 ✨ Actividad 4 Tuto2:https://docs.google.com/document/d/1jYPXyDOZb_KvDEAhifu2LZjlKIvoexaK/edit
  Tuto3:https://docs.google.com/document/d/1qoDm3t7Wav0GkJYM9NbpdG8Y1AkYl7C5/edit
- 
+ | ID | Nombre       | Edad | Ciudad     |
+|----|---------------|------|-------------|
+| 1  | Ivana Rocha   | 25   | Guanajuato  |
+| 2  | Carlos López  | 30   | Monterrey   |
+| 3  | Sofía Ramírez | 22   | Puebla      |
 
 
 
