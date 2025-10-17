@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🎮 Taller de **Creación de Videojuegos**
+# 🎮 **Creación de Videojuegos**
 
 🚀 **¡Bienvenido a mi Taller de Videojuegos!** 🕹️  
 
@@ -10,7 +10,7 @@
 </div>
 
 ¡Hola a todos! 🙋‍♀️  
-Este repositorio fue creado especialmente para **subir y compartir mis actividades del Taller de Creación de Videojuegos** 🎮.  
+Este repositorio fue creado especialmente para **subir y compartir mis actividades de la materia Creación de Videojuegos** 🎮.  
 Aquí encontrarás todo lo que he realizado en clase: desde los primeros ejercicios hasta proyectos más completos donde aplico lo aprendido sobre diseño, programación y creatividad.  
 
 💻 Cada actividad representa un nuevo aprendizaje y un paso más para seguir mejorando en el desarrollo de videojuegos ✨🌌  
