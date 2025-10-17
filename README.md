@@ -9,15 +9,11 @@
 
 </div>
 
-## 🌟 Sobre el Proyecto
-
 ¡Hola a todos! 🙋‍♀️  
-Este repositorio ha sido creado para documentar y compartir mi emocionante aventura en la materia de **Creación de Videojuegos** 💡.  
-Aquí encontrarás todas mis **actividades, ejercicios y proyectos**, desde los primeros pasos en el diseño de juegos hasta la programación, creación de assets y mecánicas divertidas.  
+Este repositorio fue creado especialmente para **subir y compartir mis actividades del Taller de Creación de Videojuegos** 🎮.  
+Aquí encontrarás todo lo que he realizado en clase: desde los primeros ejercicios hasta proyectos más completos donde aplico lo aprendido sobre diseño, programación y creatividad.  
 
-🎯 **Objetivo:** Aprender a dominar el arte de hacer videojuegos, combinando creatividad, técnica y pasión por el desarrollo digital.  
-
-💻 Cada entrega representa un nuevo aprendizaje… ¡y un paso más hacia construir mis propios universos interactivos! 🌌  
+💻 Cada actividad representa un nuevo aprendizaje y un paso más para seguir mejorando en el desarrollo de videojuegos ✨🌌  
 
 
 
@@ -30,9 +26,6 @@ Aquí encontrarás todas mis **actividades, ejercicios y proyectos**, desde los 
 | 3 | 🧭 **Menú de Juego** | [📄 Ver documento](https://docs.google.com/document/d/1OzeXz8rktb8rE44-TV8EuLRVPoPFfXhdPKuB0M7nerw/edit?tab=t.0) |
 | 4 | 🧠 **Tutorial 2** | [📄 Ver documento](https://docs.google.com/document/d/1jYPXyDOZb_KvDEAhifu2LZjlKIvoexaK/edit) |
 | 5 | 🕹️ **Tutorial 3** | [📄 Ver documento](https://docs.google.com/document/d/1qoDm3t7Wav0GkJYM9NbpdG8Y1AkYl7C5/edit) |
-
----
-
 
 
 <div align="center">
