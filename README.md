@@ -6,17 +6,12 @@
 Desde los primeros conceptos de diseño de juegos hasta la programación, pasando por la creación de assets y la implementación de mecánicas divertidas, aquí iré subiendo cada uno de mis avances. ¡Es un diario de progreso donde la meta es dominar el arte de hacer juegos! 💻✨
 
 # Actividades 🎮 
-
-✨ Actividad 1 Juego en 2D: https://docs.google.com/document/d/10lCElqMYbpI6cqkVPVX4PG0GBI1ihIap/edit
-✨ Actividad 2 Plataformas 2D: https://docs.google.com/document/d/122SQutGkBmcYqPtB8aYSPBNrPFNCebkP/edit
-✨ Actividad 3 Menú:https://docs.google.com/document/d/1OzeXz8rktb8rE44-TV8EuLRVPoPFfXhdPKuB0M7nerw/edit?tab=t.0
-✨ Actividad 4 Tuto2:https://docs.google.com/document/d/1jYPXyDOZb_KvDEAhifu2LZjlKIvoexaK/edit
- Tuto3:https://docs.google.com/document/d/1qoDm3t7Wav0GkJYM9NbpdG8Y1AkYl7C5/edit
- | ID | Nombre       | Edad | Ciudad     |
-|----|---------------|------|-------------|
-| 1  | Ivana Rocha   | 25   | Guanajuato  |
-| 2  | Carlos López  | 30   | Monterrey   |
-| 3  | Sofía Ramírez | 22   | Puebla      |
-
+| ✨ Actividad | Descripción / Nombre | Enlace |
+|---------------|----------------------|---------|
+| 1 | Juego en 2D | [Abrir documento](https://docs.google.com/document/d/10lCElqMYbpI6cqkVPVX4PG0GBI1ihIap/edit) |
+| 2 | Plataformas 2D | [Abrir documento](https://docs.google.com/document/d/122SQutGkBmcYqPtB8aYSPBNrPFNCebkP/edit) |
+| 3 | Menú | [Abrir documento](https://docs.google.com/document/d/1OzeXz8rktb8rE44-TV8EuLRVPoPFfXhdPKuB0M7nerw/edit?tab=t.0) |
+| 4 | Tuto2 | [Abrir documento](https://docs.google.com/document/d/1jYPXyDOZb_KvDEAhifu2LZjlKIvoexaK/edit) |
+| 5 | Tuto3 | [Abrir documento](https://docs.google.com/document/d/1qoDm3t7Wav0GkJYM9NbpdG8Y1AkYl7C5/edit) |
 
 
