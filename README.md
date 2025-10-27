@@ -9,7 +9,7 @@
 
 | Nº | Nombre | Enlace |
 |:---:|:------------------|:------------------|
-| 1 | 🎯 **Tutorial 1** | [📄 Ver documento](https://docs.google.com/document/d/10lCElqMYbpI6cqkVPVX4PG0GBI1ihIap/edit) <br> 🎥 [Ver video](https://drive.google.com/drive/folders/1Eslyve9qtFkpCzs10edlxmW7ytVgH_RR?usp=sharing) |
+| 1 | 🎯 **Tutorial 1** | [📄 Ver documento](https://docs.google.com/document/d/10lCElqMYbpI6cqkVPVX4PG0GBI1ihIap/edit) <br> 🎥 [Ver video](https://drive.google.com/drive/folders/1Eslyve9qtFkpCzs10edlxmW7ytVgH_RR) |
 | 2 | 🧱 **Plataformas 2D** | [📄 Ver documento](https://docs.google.com/document/d/122SQutGkBmcYqPtB8aYSPBNrPFNCebkP/edit) |
 | 3 | 🧭 **Menú de Juego** | [📄 Ver documento](https://docs.google.com/document/d/1OzeXz8rktb8rE44-TV8EuLRVPoPFfXhdPKuB0M7nerw/edit?tab=t.0) |
 | 4 | 🧠 **Tutorial 2** | [📄 Ver documento](https://docs.google.com/document/d/1jYPXyDOZb_KvDEAhifu2LZjlKIvoexaK/edit) |
