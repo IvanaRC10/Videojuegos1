@@ -5,6 +5,15 @@
 🚀 **¡Bienvenido!** 🕹️  
 
 
+## 🧩 Actividades
+
+| Nº | Nombre | Enlace |
+|:---:|:------------------|:------------------|
+| 1 | 🎯 **Tutorial 1** | [📄 Ver documento](https://docs.google.com/document/d/10lCElqMYbpI6cqkVPVX4PG0GBI1ihIap/edit) <br> 🎥 [Ver video](https://drive.google.com/drive/folders/1Eslyve9qtFkpCzs10edlxmW7ytVgH_RR?usp=sharing) |
+| 2 | 🧱 **Plataformas 2D** | [📄 Ver documento](https://docs.google.com/document/d/122SQutGkBmcYqPtB8aYSPBNrPFNCebkP/edit) |
+| 3 | 🧭 **Menú de Juego** | [📄 Ver documento](https://docs.google.com/document/d/1OzeXz8rktb8rE44-TV8EuLRVPoPFfXhdPKuB0M7nerw/edit?tab=t.0) |
+| 4 | 🧠 **Tutorial 2** | [📄 Ver documento](https://docs.google.com/document/d/1jYPXyDOZb_KvDEAhifu2LZjlKIvoexaK/edit) |
+| 5 | 🕹️ **Tutorial 3** | [📄 Ver documento](https://docs.google.com/document/d/1qoDm3t7Wav0GkJYM9NbpdG8Y1AkYl7C5/edit) |
 
 
 </div>
@@ -16,16 +25,6 @@ Aquí encontrarás todo lo que he realizado en clase: desde los primeros ejercic
 💻 Cada actividad representa un nuevo aprendizaje y un paso más para seguir mejorando en el desarrollo de videojuegos ✨🌌  
 
 
-
-## 🧩 Actividades
-
-| ✨ Nº | 🕹️ Nombre | 🔗 Enlace |
-|:---:|:------------------|:------------------|
-| 1 | 🎯 **Juego en 2D** | [📄 Ver documento](https://docs.google.com/document/d/10lCElqMYbpI6cqkVPVX4PG0GBI1ihIap/edit) |
-| 2 | 🧱 **Plataformas 2D** | [📄 Ver documento](https://docs.google.com/document/d/122SQutGkBmcYqPtB8aYSPBNrPFNCebkP/edit) |
-| 3 | 🧭 **Menú de Juego** | [📄 Ver documento](https://docs.google.com/document/d/1OzeXz8rktb8rE44-TV8EuLRVPoPFfXhdPKuB0M7nerw/edit?tab=t.0) |
-| 4 | 🧠 **Tutorial 2** | [📄 Ver documento](https://docs.google.com/document/d/1jYPXyDOZb_KvDEAhifu2LZjlKIvoexaK/edit) |
-| 5 | 🕹️ **Tutorial 3** | [📄 Ver documento](https://docs.google.com/document/d/1qoDm3t7Wav0GkJYM9NbpdG8Y1AkYl7C5/edit) |
 
 
 <div align="center">
