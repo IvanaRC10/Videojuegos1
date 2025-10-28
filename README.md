@@ -14,7 +14,7 @@
 | 4 | 🧠 **Tutorial 2** | [📄 Ver documento](https://docs.google.com/document/d/1jYPXyDOZb_KvDEAhifu2LZjlKIvoexaK/edit) <br> 🎥 [Ver video](https://drive.google.com/drive/u/0/folders/1EMfQGPAYW8W1tiUEJmh6ZHFeHm_K8G_p) |
 | 5 | 🕹️ **Tutorial 3** | [📄 Ver documento](https://docs.google.com/document/d/1qoDm3t7Wav0GkJYM9NbpdG8Y1AkYl7C5/edit) <br> 🎥 [Ver video](https://drive.google.com/drive/u/0/folders/1EMfQGPAYW8W1tiUEJmh6ZHFeHm_K8G_p) |
 | 6 | 🎯 **Tutorial 4** | [📄 Ver documento](https://docs.google.com/document/d/1oK5CvCEzU8bZa8cGoGW_JcGY2kbv1w2V/edit) <br> 🎥 [Ver video](https://drive.google.com/file/d/1A1diy1ZrTNwlGRsEG0ACHrKDm55We1JX/view?usp=sharing) |
-| 7 | 🎯 **Tutorial 5** | [📄 https://docs.google.com/document/d/190BV84kioIlx7l_mJWYf1kCDyCSnKP_L/edit]() <br> 🎥 [Ver video]() |
+| 7 | 🎯 **Tutorial 5** | [📄 Ver documento](https://docs.google.com/document/d/190BV84kioIlx7l_mJWYf1kCDyCSnKP_L/edit) <br> 🎥 [Ver video]() |
 
 </div>
 
